@@ -1,7 +1,8 @@
 # django-todo
 A simple todo app built with django
 
-![todo App](https://raw.githubusercontent.com/TejesMunde/django-todo/develop/staticfiles/todoApp.png)
+![image](https://github.com/TejesMunde/django-todo/assets/93602369/348b926c-1953-47b9-9b19-4202768d047f)
+
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
